@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://Lola-ferr.github.io/emotion_recognition/images/im_3/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "im_3"
+                ]
+            },
+            "height": 1280,
+            "width": 959,
+            "items": [
+                {
+                    "id": "https://Lola-ferr.github.io/emotion_recognition/images/im_3/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola-ferr.github.io/emotion_recognition/images/im_3/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola-ferr.github.io/emotion_recognition/images/im_3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 30,
+                                                "height": 40
+                                            },
+                                            {
+                                                "width": 60,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 120,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 240,
+                                                "height": 320
+                                            },
+                                            {
+                                                "width": 480,
+                                                "height": 640
+                                            },
+                                            {
+                                                "width": 959,
+                                                "height": 1280
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 959,
+                                        "@id": "https://Lola-ferr.github.io/emotion_recognition/images/im_3",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1280,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola-ferr.github.io/emotion_recognition/images/im_3/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Lola-ferr.github.io/emotion_recognition/images/im_1/canvas/",
             "type": "Canvas",
             "label": {
