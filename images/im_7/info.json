@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 29,
+    "height" : 50
+  }, {
+    "width" : 57,
+    "height" : 100
+  }, {
+    "width" : 113,
+    "height" : 200
+  }, {
+    "width" : 225,
+    "height" : 400
+  }, {
+    "width" : 450,
+    "height" : 800
+  }, {
+    "width" : 899,
+    "height" : 1599
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 899,
+  "@id" : "https://Lola-ferr.github.io/emotion_recognition/images/im_7",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1599
+}
