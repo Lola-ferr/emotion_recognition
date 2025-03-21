@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Lola-ferr.github.io/emotion_recognition/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "emotions",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A series of images representing different emotions.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Eleonora Ferrari and Matteo Rinaldi",
+  "sequences" : [ {
+    "@id" : "http://7a6bb2ec-1792-482f-bcf1-a29d7820daf8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://80207b75-c656-4900-86ea-30f29dfac9e7",
+      "@type" : "sc:Canvas",
+      "label" : "im_1",
+      "height" : 1599,
+      "width" : 899,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://558930f5-a6eb-405c-aea2-1fa3cadacf35",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1599,
+          "width" : 899
+        },
+        "on" : "http://80207b75-c656-4900-86ea-30f29dfac9e7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9817337d-51d1-4d54-be52-8eb602de4bb3",
+      "@type" : "sc:Canvas",
+      "label" : "im_2",
+      "height" : 1280,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://66903db7-3943-4d8c-8a01-53369f0e7044",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 960
+        },
+        "on" : "http://9817337d-51d1-4d54-be52-8eb602de4bb3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://747537c7-0d37-4c29-8873-e115a5f9eff8",
+      "@type" : "sc:Canvas",
+      "label" : "im_3",
+      "height" : 1280,
+      "width" : 959,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://50876783-88ac-41a5-9c01-5ccf33628f25",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 959
+        },
+        "on" : "http://747537c7-0d37-4c29-8873-e115a5f9eff8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://56e3bc4f-c83c-4c37-95e8-10825fec0de8",
+      "@type" : "sc:Canvas",
+      "label" : "im_4",
+      "height" : 1280,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://80a553b6-1cf8-42e2-b7d9-2a328b6d3b82",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 960
+        },
+        "on" : "http://56e3bc4f-c83c-4c37-95e8-10825fec0de8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6f36b680-8e58-485a-afb7-61d543b01a58",
+      "@type" : "sc:Canvas",
+      "label" : "im_5",
+      "height" : 1280,
+      "width" : 959,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f504f565-5325-4776-94a2-b9b340015d28",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 959
+        },
+        "on" : "http://6f36b680-8e58-485a-afb7-61d543b01a58"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://01983817-469e-4dcd-a419-dd4c9172d193",
+      "@type" : "sc:Canvas",
+      "label" : "im_6",
+      "height" : 1280,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a9fd514b-42fc-4739-86bb-0747ed28d945",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 960
+        },
+        "on" : "http://01983817-469e-4dcd-a419-dd4c9172d193"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e6463197-12af-4c38-99f5-b44e2b03cbf4",
+      "@type" : "sc:Canvas",
+      "label" : "im_7",
+      "height" : 1599,
+      "width" : 899,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5fa3b600-c168-4c4c-b9f0-ba331b4fb9d0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1599,
+          "width" : 899
+        },
+        "on" : "http://e6463197-12af-4c38-99f5-b44e2b03cbf4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6b2a6e0c-6394-4dce-82f4-09d66fead501",
+      "@type" : "sc:Canvas",
+      "label" : "im_8",
+      "height" : 1280,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://094e817b-84a7-4c25-b58b-327dd258cef4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 960
+        },
+        "on" : "http://6b2a6e0c-6394-4dce-82f4-09d66fead501"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ea1560de-7eda-40b7-9eb3-a52790b1ddb5",
+      "@type" : "sc:Canvas",
+      "label" : "im_9",
+      "height" : 1280,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://69b946aa-2e4c-4bcc-b9d1-cfb0095fa3fd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 960
+        },
+        "on" : "http://ea1560de-7eda-40b7-9eb3-a52790b1ddb5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://573b039d-36ee-415e-b8e4-8c06cddfa42b",
+      "@type" : "sc:Canvas",
+      "label" : "im_10",
+      "height" : 1280,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c8500926-260d-4152-9f70-0b2446f70ddc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/emotion_recognition/images/im_10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 960
+        },
+        "on" : "http://573b039d-36ee-415e-b8e4-8c06cddfa42b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
